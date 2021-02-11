@@ -1,0 +1,9 @@
+keras==2.2.4
+tensorflow==2.x
+matplotlib
+numpy
+scikit-learn
+scikit-image
+imutils
+matplotlib 
+kaggle
