@@ -7,4 +7,6 @@ The dataset use link is [here](https://www.kaggle.com/prithwirajmitra/covid-face
 To donload the dataset , generate the api from your kaggle account 
 
 To install requied model run the command
-`pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
